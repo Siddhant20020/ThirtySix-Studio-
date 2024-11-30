@@ -57,4 +57,4 @@ function Canvas({ details }) {
       id="canvas"></canvas>
   )
 }
-export default Canvas;
+export default Canvas;[]
